@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#DIY
+
+.idea/
+
+*.DS_Store
+
+conf/*.cnf
+
+*.cnf
+
+*.log
+
+*.pyc
